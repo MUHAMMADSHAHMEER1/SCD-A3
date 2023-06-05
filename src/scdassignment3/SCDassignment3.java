@@ -21,6 +21,7 @@ public class SCDassignment3 {
     public static void main(String[] args) {
         // TODO code application logic here
         LoginGUI l = new LoginGUI();
+        Database dbobj=new Database();
         
     }
     
